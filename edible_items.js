@@ -12,8 +12,8 @@ function separateItems(itemString) {
   }
 
   return {
-    edible: edibleItems.join(', '),
-    nonEdible: nonEdibleItems.join(', '),
+    edible: edibleItems.join(',  '),
+    nonEdible: nonEdibleItems.join(',  '),
   };
 }
 
