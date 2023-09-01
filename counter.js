@@ -1,3 +1,4 @@
+// counter
 function countCharacters(str) {
   const counts = {
     a: 0,
